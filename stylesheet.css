@@ -786,3 +786,12 @@ a .icon:hover
     left: 10em;
     bottom: 4.2em;
   }
+
+.skiils-tech
+  {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.10px;
+    font-weight: 100;
+    color: rgb(61, 61, 74);
+    
+  }
